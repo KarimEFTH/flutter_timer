@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_timer/widget_example.dart';
+
+import 'widget_example.dart';
 
 void main() {
   runApp(const MyApp());
